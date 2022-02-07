@@ -2,7 +2,7 @@ This repository contains the code and experiments for the submission *ViViT: Cur
 
 # Reproducing the experiments
 
-**Note:** Experiments were generated and verified to run on `python=3.8.5` with `pip=21.2.4`.
+**Note:** Experiments were generated and verified to run on Ubuntu 20.04.3 LTS with `python=3.8.5` and `pip=21.2.4`.
 
 ## Installation
 
